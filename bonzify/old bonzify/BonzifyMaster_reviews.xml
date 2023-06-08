@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="BonzifyMaster">
+  <review>
+    <reviewbody>will this give me a virus or is it just the meme</reviewbody>
+    <reviewtitle>question</reviewtitle>
+    <reviewer>TheNostalgicSpongebobGuy</reviewer>
+    <reviewer_itemname>@thenostalgicspongebobguy</reviewer_itemname>
+    <reviewdate>2019-05-09 01:05:17</reviewdate>
+    <createdate>2019-05-09 01:05:17</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewtitle>HEHEHEHEHEHEHEHE</reviewtitle>
+    <reviewbody>LOL</reviewbody>
+    <stars>5</stars>
+    <reviewer>ilikemacsalot782</reviewer>
+    <reviewdate>2021-02-16 15:20:31</reviewdate>
+    <createdate>2021-02-16 15:20:31</createdate>
+    <reviewer_itemname>@ilikemacsalot782</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>2</num_reviews>
+    <avg_rating>5.00</avg_rating>
+  </info>
+</reviews>

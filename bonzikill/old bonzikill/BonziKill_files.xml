@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BonziKill.zip" source="original">
+    <mtime>1529968621</mtime>
+    <size>81440114</size>
+    <md5>9bf39b430dce74806ab8c3c171272bd0</md5>
+    <crc32>69eb6812</crc32>
+    <sha1>5ed724ecb9a5893f4007175ba2d3b1ecdc390de9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="BonziKill_archive.torrent" source="metadata">
+    <btih>d21debd4a6e8717b3701fb37aaa46b5511d8a3cd</btih>
+    <mtime>1613246409</mtime>
+    <size>4860</size>
+    <md5>832f4ab9cffab1de2b58523d2131309e</md5>
+    <crc32>8945a3c2</crc32>
+    <sha1>a25e5a5e024124e370212cbe26f6be6d2737f0d9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BonziKill_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0d83d9d33c27e80943b168c75ce77572</md5>
+  </file>
+  <file name="BonziKill_meta.sqlite" source="original">
+    <mtime>1529968644</mtime>
+    <size>9216</size>
+    <md5>75e8b658549ed68c29c64a2aa0bc9996</md5>
+    <crc32>6975b6e2</crc32>
+    <sha1>75021b11e1aafe8301c1393131b81d38dd233ba0</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BonziKill_meta.xml" source="original">
+    <mtime>1613246408</mtime>
+    <size>735</size>
+    <format>Metadata</format>
+    <md5>236712c2dbfedac40304326b8b702e10</md5>
+    <crc32>a1c1d57f</crc32>
+    <sha1>5cc7d567884dbfe443f56c2907f13ac5a656d5a5</sha1>
+  </file>
+  <file name="BonziKill_reviews.xml" source="original">
+    <mtime>1613246408</mtime>
+    <size>9002</size>
+    <md5>245abb3e07a8e362bf356137c0631e2f</md5>
+    <crc32>6ae1abc5</crc32>
+    <sha1>32d4b7210143937d3456f1c19d0863dfdd64ae8a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BonziRogue-1.zip" source="original">
+    <format>ZIP</format>
+    <mtime>1531689383</mtime>
+    <size>3114</size>
+    <md5>911722d67f234eb299b8fc3e834573d8</md5>
+    <crc32>4e4b3476</crc32>
+    <sha1>cca1cd0426545a385afcf6983cb8ab3479e235a1</sha1>
+  </file>
+</files>

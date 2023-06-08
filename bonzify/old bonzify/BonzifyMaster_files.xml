@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bonzify-master.zip" source="original">
+    <mtime>1535773720</mtime>
+    <size>3607</size>
+    <md5>512066537f528631b41638ed25891d6b</md5>
+    <crc32>d7b18bc4</crc32>
+    <sha1>c640b7acd1ade524d4351052eb400881f2f8dff6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="BonzifyMaster_archive.torrent" source="metadata">
+    <btih>b64963de1c967393894493cf8768cd46f1ff2ca6</btih>
+    <mtime>1613488838</mtime>
+    <size>1625</size>
+    <md5>5c34bda1037b8c0195019e4329729476</md5>
+    <crc32>e8bc76e7</crc32>
+    <sha1>d28aa2dfcdf30f88bc41d9e65c715c471ed64867</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BonzifyMaster_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3b9083ac37ed2b61f167f42f36057538</md5>
+  </file>
+  <file name="BonzifyMaster_meta.sqlite" source="original">
+    <mtime>1535773736</mtime>
+    <size>9216</size>
+    <md5>c3c09ca5952ffa8d515a0cd47356851a</md5>
+    <crc32>80e143f5</crc32>
+    <sha1>231691d51e1db3b3eed58a390393215154069c67</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BonzifyMaster_meta.xml" source="original">
+    <mtime>1613246408</mtime>
+    <size>710</size>
+    <format>Metadata</format>
+    <md5>e2fb3bd978155fa6f137c679bb468759</md5>
+    <crc32>a017d407</crc32>
+    <sha1>c1f4754af1a66cde65a965e4f5b513b810828d1b</sha1>
+  </file>
+  <file name="BonzifyMaster_reviews.xml" source="original">
+    <mtime>1613488837</mtime>
+    <size>882</size>
+    <md5>8b8ee5b6d6b8660d4fa3d39697f3d6c4</md5>
+    <crc32>507fc5ed</crc32>
+    <sha1>676cc9c5cc4d211e9a0534ba220db3ea5cfb1205</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
